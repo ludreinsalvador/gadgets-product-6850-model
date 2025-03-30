@@ -1,12 +1,9 @@
-# low-performing-product-ml-model
-
-# Churn Prediction (Machine Learning)
-**Instructor:** Mr. Lorenzo Sta. Maria, Data Scientist at Globe Telecom
+# Predicting Customer Purchases to Increase Sales Revenue of a Low-Performing Product
 
 ---
 
 ## Overview
-This repository aims to Predicting Customer Purchases to Increase Sales Revenue of a Low-Performing Product.
+This repository aims to predict customer purchases to increase sales revenue of a low-performing product.
 
 ---
 
@@ -15,11 +12,18 @@ This repository aims to Predicting Customer Purchases to Increase Sales Revenue 
   
 ---
 
-## Notebooks
-- **[Notebooks Folder](/notebooks/)** - This contains Jupyter notebooks for data analysis and model building.
-  - **[salvador_week2.ipynb](/notebooks/salvador_week2.ipynb)**: Business & Data Understanding
-  - **[salvador_week3.ipynb](/notebooks/salvador_week3.ipynb)**: Data Engineering
-  - **[salvador_week4.ipynb](/notebooks/salvador_week4.ipynb)**: Machine Learning Model Engineering
-  - **[salvador_week5.ipynb](/notebooks/salvador_week5.ipynb)**: ML Model Evaluation
-  - **[salvador_week6.ipynb](/notebooks/salvador_week6.ipynb)**: Model Deployment
-  - **[salvador_week7.ipynb](/notebooks/salvador_week7.ipynb)**: Further Model Enhancements
+## Objective and Scope
+
+- Objective:
+  - To create a machine learning model that predicts whether a customer will purchase Product 6850 in January 2019 with an accuracy above 85% and a recall of at least 70%.
+
+- Hypothesis:
+  - Customer Demographics Impact Buying Behavior - Customers of a certain age group, gender, or membership type are more likely to buy Product 6850.
+  - Past Purchase History Predicts Future Purchases - Customers who have purchased gadgets or similar product categories in the past 3 months are more likely to buy Product 6850.
+  - Weather Conditions Affect Purchase Decisions - Sales of Product 6850 are higher on cloudy/rainy days and lower on sunny days.
+  - Frequent Shoppers are More Likely to Buy - Customers with higher overall spending and transaction frequency have a higher chance of buying Product 6850.
+
+---
+## Final Project File
+- **[Project]([/notebooks/](https://github.com/ludreinsalvador/low-performing-product-ml-model/blob/main/salvador_individual_project.ipynb))** - This contains the Jupyter notebook for data analysis and model building.
+
