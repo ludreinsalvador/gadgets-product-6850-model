@@ -25,5 +25,5 @@ This repository aims to predict customer purchases to increase sales revenue of 
 
 ---
 ## Final Project File
-- **[Project]([/notebooks/](https://github.com/ludreinsalvador/gadgets_product_6850_project/blob/main/gadgets_product_6850_project.ipynb)** - contains my Jupyter notebook for data analysis and model building.
+- **[Project](https://github.com/ludreinsalvador/gadgets_product_6850_project/blob/main/gadgets_product_6850_project.ipynb)** - contains my Jupyter notebook for data analysis and model building.
 
