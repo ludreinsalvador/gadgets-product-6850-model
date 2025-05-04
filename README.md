@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-This repository aims to predict customer purchases to increase sales revenue of a low-performing product.
+This project aims to predict customer purchases to increase sales revenue of a low-performing product.
 
 ---
 
